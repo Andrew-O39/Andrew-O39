@@ -9,7 +9,7 @@
 **Concepts**:<br> Object-Oriented Programming (OOP), API Integration, CRUD Operations, Authorization, Database Design, Version Control
 
 **Connect with me on**:<br>
-[LinkedIn](https://www.linkedin.com/in/andrew-owusu-8b072433a/) <br>
+[LinkedIn](https://www.linkedin.com/in/andrew-owusu-backend/) <br>
 Let's build solutions and solve real-world problems through technology together!
 
 
