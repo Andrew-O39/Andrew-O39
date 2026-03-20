@@ -1,17 +1,65 @@
-## Hi there, I am Andrew
-**An aspiring Backend Developer undertaking an intensive 14-month Software Engineering program with Masterschool.** 
+## Hi there, I'm Andrew 👋
 
-### Technical Skills:
-**Languages & Frameworks**:<br> Python, SQL, Flask, HTML, CSS
+Backend-focused Software Engineer with hands-on experience building scalable web applications, APIs, and AI-powered systems using Python and TypeScript.
 
-**Tools & Technologies**:<br> RESTful APIs, Postman, Git, GitHub, PyCharm, SQLite, SQLAlchemy, Bootstrap, Jinja
+I enjoy designing clean backend architectures, working with data-driven systems, and building solutions that solve real-world problems.
 
-**Concepts**:<br> Object-Oriented Programming (OOP), API Integration, CRUD Operations, Authorization, Database Design, Version Control
+---
 
-**Connect with me on**:<br>
-[LinkedIn](https://www.linkedin.com/in/andrew-owusu-backend/) <br>
-Let's build solutions and solve real-world problems through technology together!
+### 🧠 What I Do
 
+- Build RESTful APIs and backend services using FastAPI and modern Python tooling  
+- Design relational data models and implement business logic  
+- Develop AI-powered features using OpenAI APIs and structured workflows  
+- Work with event-driven systems and asynchronous processing  
+- Contribute across the stack with React and TypeScript when needed  
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+Python, TypeScript, JavaScript, SQL, FastAPI, Flask, React  
+
+**Backend & Data**  
+PostgreSQL, SQLite, SQLAlchemy, REST APIs, Database Design  
+
+**Tools & Infrastructure**  
+Docker, Git, GitHub, Postman, AWS (basic), CI/CD (GitHub Actions), PyCharm  
+
+**Concepts**  
+Clean Architecture, Object-Oriented Programming (OOP), API Design,  
+Authentication & Authorization, Event-driven systems, Scalable backend design  
+
+---
+
+### 🚀 Featured Projects
+
+**ExpenseVista – AI-Powered Personal Finance Platform**  
+- Full-stack application with a Python backend (FastAPI)  
+- AI-powered financial queries using OpenAI APIs  
+- Budget tracking, expense management, and automated email notifications  
+- Designed with clean architecture and scalable API structure  
+
+👉 [View Project](https://github.com/Andrew-O39/expense_vista)
+
+---
+
+### 🌱 Currently
+
+- Expanding backend expertise in scalable systems and AI integrations  
+- Exploring modern AI frameworks and agent-based workflows  
+- Open to backend / full-stack opportunities  
+
+---
+
+### 🤝 Let’s Connect
+
+[LinkedIn](https://www.linkedin.com/in/andrew-owusu-backend/)
+
+---
+
+💡 *I’m always interested in building meaningful systems and collaborating on impactful projects.*
 
 <!--
 **Andrew-O39/Andrew-O39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
